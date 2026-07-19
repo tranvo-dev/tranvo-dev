@@ -16,12 +16,15 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer based in Vietnam, currently building at **Mesoneer**, with prior experience at **Axon Active** delivering products for Swiss clients — including **Die Mobiliar** (insurance) and **KLARA** (SaaS document management).
-
-My core stack is **Java / Spring Boot** on the backend and **Angular** on the frontend, and I'm now expanding into **AI/LLM applications** and **mobile development**.
+Hi there! 👋 I'm a Software Engineer based in Ho Chi Minh City, Vietnam, who enjoys turning ideas into shipped, working software.
+ 
+- 💼 Currently building the **Bank Onboarding** account at **Mesoneer**
+- 🏢 Spent 5 years before that at **Axon Active Vietnam**, delivering projects for Swiss clients — **Die Mobiliar** (insurance) and **KLARA** (SaaS document management)
+- 🛠️ Core skills: **Java / Spring Boot** on the backend, **Angular** on the frontend — I love developing and delivering production web apps end-to-end
+- 🌱 Branching out into **AI/LLM applications** and **mobile development**, and would be excited to join projects that blend these with my core stack
+- 🌍 Open to remote opportunities, anywhere in the world
 
 ## 🧩 Featured Projects
-<sub>Auto-synced daily — shown here if a repo has 5+ commits, is published on npm, has a Medium writeup, or ships via Vercel.</sub>
 
 <!-- PROJECTS:START -->
 - **[ai-ta](https://github.com/tranvo-dev/ai-ta)** — AI Teaching Assistant web app to support my mom in her teaching
@@ -30,9 +33,11 @@ My core stack is **Java / Spring Boot** on the backend and **Angular** on the fr
 - **[quill-editor-with-table](https://github.com/tranvo-dev/quill-editor-with-table)** — Medium Reference: Demo project for creating rich text editor with dynamic table creation feature using only HTML, CSS, JavaScript and Quill JS
 <!-- PROJECTS:END -->
 
+<sub>Auto-synced daily — shown here if a repo has 5+ commits, is published on npm, has a Medium writeup, or ships via Vercel.</sub>
+
 ## 🔭 Currently Exploring
 
-- SpringBoot micro-service architecture design
+- OAuth2/OIDC architecture and distributed systems design
 - Applied LLMs — RAG pipelines, local VLMs, agentic tooling
 - Flutter Mobile app development
 
