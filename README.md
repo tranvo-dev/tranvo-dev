@@ -34,6 +34,6 @@ My core stack is **Java / Spring Boot** on the backend and **Angular** on the fr
 ## 📫 Reach Me
 
 - 📧 tran.vobao.hellowork@gmail.com
-- 💼 [linkedin.com/in/your-profile](https://www.linkedin.com/in/tranvobao/)
+- 💼 [linkedin.com/in/tranvobao](https://www.linkedin.com/in/tranvobao/)
 
 <p align="center"><i>Open to Senior Software Engineer opportunities.</i></p>
