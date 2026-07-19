@@ -18,7 +18,7 @@
 
 Hi there! 👋 I'm a Software Engineer based in Ho Chi Minh City, Vietnam, who enjoys turning ideas into shipped, working software.
  
-- 💼 Currently building the **Bank Onboarding** account at **Mesoneer**
+- 💼 Currently building the **Bank Onboarding** account at **mesoneer**
 - 🏢 Spent 5 years before that at **Axon Active Vietnam**, delivering projects for Swiss clients — **Die Mobiliar** (insurance) and **KLARA** (SaaS document management)
 - 🛠️ Core skills: **Java / Spring Boot** on the backend, **Angular** on the frontend — I love developing and delivering production web apps end-to-end
 - 🌱 Branching out into **AI/LLM applications** and **mobile development**, and would be excited to join projects that blend these with my core stack
