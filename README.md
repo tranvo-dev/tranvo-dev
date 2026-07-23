@@ -27,10 +27,10 @@ Hi there! 👋 I'm a Software Engineer based in Ho Chi Minh City, Vietnam, who e
 ## 🧩 Featured Projects
 
 <!-- PROJECTS:START -->
+- **[quill-editor-with-table](https://github.com/tranvo-dev/quill-editor-with-table)** — Medium Reference: Demo project for creating rich text editor with dynamic table creation feature using only HTML, CSS, JavaScript and Quill JS
+- **[ng-create-with-config](https://github.com/tranvo-dev/ng-create-with-config)** — A minimal tool to initialize new Angular project with pre-configured Prettier, Eslint, Husky and Lint staged.
 - **[ai-ta](https://github.com/tranvo-dev/ai-ta)** — AI Teaching Assistant web app to support my mom in her teaching
 - **[book-app](https://github.com/tranvo-dev/book-app)** — The ultimate book app for surviving boring work hours. Shhh... we won't tell your boss! 🤫📚
-- **[ng-create-with-config](https://github.com/tranvo-dev/ng-create-with-config)** — A minimal tool to initialize new Angular project with pre-configured Prettier, Eslint, Husky and Lint staged.
-- **[quill-editor-with-table](https://github.com/tranvo-dev/quill-editor-with-table)** — Medium Reference: Demo project for creating rich text editor with dynamic table creation feature using only HTML, CSS, JavaScript and Quill JS
 <!-- PROJECTS:END -->
 
 <sub>Auto-synced daily — shown here if a repo has 5+ commits, is published on npm, has a Medium writeup, or ships via Vercel.</sub>
