@@ -9,9 +9,9 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
     <!-- TECH:START -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
 <!-- TECH:END -->
 </p>
 
@@ -28,10 +28,10 @@ Hi there! 👋 I'm a Software Engineer based in Ho Chi Minh City, Vietnam, who e
 ## 🧩 Featured Projects
 
 <!-- PROJECTS:START -->
+- **[book-app](https://github.com/tranvo-dev/book-app)** — The ultimate book app for surviving boring work hours. Shhh... we won't tell your boss! 🤫📚
 - **[quill-editor-with-table](https://github.com/tranvo-dev/quill-editor-with-table)** — Medium Reference: Demo project for creating rich text editor with dynamic table creation feature using only HTML, CSS, JavaScript and Quill JS
 - **[ng-create-with-config](https://github.com/tranvo-dev/ng-create-with-config)** — A minimal tool to initialize new Angular project with pre-configured Prettier, Eslint, Husky and Lint staged.
 - **[ai-ta](https://github.com/tranvo-dev/ai-ta)** — AI Teaching Assistant web app to support my mom in her teaching
-- **[book-app](https://github.com/tranvo-dev/book-app)** — The ultimate book app for surviving boring work hours. Shhh... we won't tell your boss! 🤫📚
 <!-- PROJECTS:END -->
 
 <sub>Auto-synced daily — shown here if a repo has 5+ commits, is published on npm, has a Medium writeup, or ships via Vercel.</sub>
